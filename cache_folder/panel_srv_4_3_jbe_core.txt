@@ -1,0 +1,693 @@
+﻿[en]
+JBE_HUD_DAY = Dan %d,
+JBE_HUD_DAY_WEEK_0 = Jailbreak
+JBE_HUD_DAY_WEEK_1 = Ponedeljak
+JBE_HUD_DAY_WEEK_2 = Utorak
+JBE_HUD_DAY_WEEK_3 = Sreda
+JBE_HUD_DAY_WEEK_4 = Cetvrtak
+JBE_HUD_DAY_WEEK_5 = Petak
+JBE_HUD_DAY_WEEK_6 = Subota
+JBE_HUD_DAY_WEEK_7 = Nedelja
+
+JBE_HUD_GAME_MODE = Trenutno je: %L %s
+JBE_HUD_GAME_MODE_0 = Pocetak Dan
+JBE_HUD_GAME_MODE_1 = Obican Dan
+JBE_HUD_GAME_MODE_2 = Slobodan Dan
+JBE_HUD_GAME_MODE_3 = Zabavan Dan
+
+JBE_HUD_CHIEF = Komandir Policije: %L%s
+JBE_HUD_CHIEF_NOT = Nije izabran
+JBE_HUD_CHIEF_ALIVE =Ziv,
+JBE_HUD_CHIEF_DEAD = Mrtav,neka neko preuzme posao.
+JBE_HUD_CHIEF_DISCONNECT = Diskonektovan
+JBE_HUD_CHIEF_FREE = Slobodan
+
+JBE_HUD_PRISONERS = Zatvorenici -  %d|%d
+JBE_HUD_GUARD = Cuvari - %d|%d
+
+JBE_HUD_NOT_FREE =
+JBE_HUD_HAS_FREE = ^n^nSlobodni:
+JBE_HUD_NOT_WANTED =
+JBE_HUD_HAS_WANTED = ^n^nTrazeni:
+
+
+JBE_MENU_TEAM_TITLE = Deamons JB r| wIzaberi svoj tim^nwBalans: r%d Zatvorenika - 1 Cuvar
+JBE_MENU_TEAM_PRISONERS = Zatvorenik
+JBE_MENU_TEAM_GUARDS = Cuvar w[rPotreban MICw]
+JBE_MENU_TEAM_RANDOM = Nasumican tim w[r50/50w]
+JBE_MENU_TEAM_SPECTATOR = Spectator
+
+JBE_MENU_SKIN_TITLE = Deamons JB r| wIzaberi boju
+JBE_MENU_SKIN_ORANGE = Narandzast
+JBE_MENU_SKIN_GRAY = Siv
+JBE_MENU_SKIN_YELLOW = Zut
+JBE_MENU_SKIN_BLUE = Plav
+JBE_MENU_SKIN_BLACK = Crn [rADMINw]
+
+
+JBE_MENU_WEAPONS_GUARD_TITLE = Deamons JB r| wOruzje
+JBE_MENU_WEAPONS_GUARD_AK47 = AK47 + Deagle
+JBE_MENU_WEAPONS_GUARD_M4A1 = M4A1 + Deagle
+JBE_MENU_WEAPONS_GUARD_AWP = AWP + Deagle
+JBE_MENU_WEAPONS_GUARD_XM1014 = XM1014 + Deagle
+
+
+JBE_MENU_MAIN_TITLE = Deamons JB r| wGlavni meni
+JBE_MENU_MAIN_SHOP = Prodavnica [rShopw]
+JBE_MENU_MAIN_MONEY_TRANSFER =Banka [rTransfer novcaw]
+JBE_MENU_MAIN_COSTUMES = Kostimi
+JBE_MENU_MAIN_LAST_PN = Poslednja zelja
+JBE_MENU_MAIN_CHIEF = Meni komandira
+JBE_MENU_MAIN_TAKE_CHIEF = Postani komandir policije
+JBE_MENU_MAIN_TEAM = Promeni tim
+JBE_MENU_MAIN_VIP = VIP meni
+JBE_MENU_MAIN_ADMIN = Admin Meni
+JBE_MENU_MAIN_SUPER_ADMIN = Head Admin Meni
+JBE_MENU_MAIN_MANAGE_SOUND = Podesavanje muzike
+
+JBE_MENU_SHOP_PRISONERS_TITLE = Zatvorenici r| wProdavnica^ndPopust: %d%%
+JBE_MENU_SHOP_PRISONERS_WEAPONS = Oruzje
+JBE_MENU_SHOP_PRISONERS_ITEMS = Oprema
+JBE_MENU_SHOP_PRISONERS_SKILLS = Sposobnosti
+JBE_MENU_SHOP_PRISONERS_OTHER = Ostalo
+
+JBE_MENU_SHOP_WEAPONS_TITLE = Prodavnica r| wOruzje
+JBE_MENU_SHOP_WEAPONS_SHARPENING = Noz
+JBE_MENU_SHOP_WEAPONS_SCREWDRIVER = Srafciger
+JBE_MENU_SHOP_WEAPONS_BALISONG = Leptir Noz
+JBE_MENU_SHOP_WEAPONS_GLOCK18 = Glock 18
+JBE_MENU_SHOP_WEAPONS_USP = USP
+JBE_MENU_SHOP_WEAPONS_DEAGLE = Deagle
+
+JBE_CHAT_ID_SHOP_WEAPON_HELP = !yDa bi !tuzeo oruzje !ypritisni !g'x'!y, da bi !tsakrio oruzje !yponovo pritisni !g'x'!y.
+JBE_CHAT_ID_SHOP_WEAPON_BLOCKED = !yKoriscenje oruzja tokom igara je zabranjeno.
+
+JBE_MENU_SHOP_ITEMS_TITLE = Prodavnica r| wOprema
+JBE_MENU_SHOP_ITEMS_LATCHKEY = Obijac vrata
+JBE_MENU_SHOP_ITEMS_FLASHBANG = Flash Bomba
+JBE_MENU_SHOP_ITEMS_KOKAIN = Kokain
+JBE_MENU_SHOP_ITEMS_STIMULATOR = Stimulator
+JBE_MENU_SHOP_ITEMS_FROST_GRENADE = Ledena Bomba
+JBE_MENU_SHOP_ITEMS_INVISIBLE_HAT = Nevidljiva Kapa
+JBE_MENU_SHOP_ITEMS_ARMOR = Pancir
+JBE_MENU_SHOP_SKILLS_CLOHING_GUARD = Kostim cuvara
+JBE_MENU_SHOP_SKILLS_HEGRENADE = Granata
+
+
+JBE_MENU_ID_LATCHKEY_USE = !yZa koriscenje !tobijaca!y, priblizi se celijski vratima i pritisni !g'c'!y.
+JBE_CHAT_ID_LATCHKEY_ERROR_DOOR = !gGreska, pokusaj opet!y.
+JBE_MENU_ID_KOKAIN = !yEfekti posle koriscenja !tKokaina!y: !tprimacete manje stete od oruzja!y.
+JBE_MENU_ID_INVISIBLE_HAT_HELP = !yKupio si !t'Nevidljivu Kapu'!y, bicete nevidljivi !g10 sekundi!y.
+JBE_MENU_ID_INVISIBLE_HAT_REMOVE = !yDejstvo predmeta !t'Nevidljiva Kapa'!y je isteklo, bicete vidljivi opet.
+JBE_CHAT_ID_CLOHING_GUARD_HELP = !yKupio si, !tCuvarev kostim !ypritisni !g'z' !yda ga skines, ako zelis da ga obuces ponovo pritisni opet !g'z'!y.
+JBE_CHAT_ID_DRESSED_CLOTHING_GUARD = !yTi si uspesno obukao kostim od cuvara.
+JBE_CHAT_ID_REMOVE_CLOTHING_GUARD = !yTi si uspesno skinuo kostim od cuvara.
+JBE_CHAT_ID_BLOCKED_CLOTHING_GUARD = !yTrenutno ne mozes da koristis kostim od cuvara.
+JBE_
+MENU_SHOP_SKILLS_TITLE = Prodavnica r| wSposobnosti
+JBE_MENU_SHOP_SKILLS_HING_JUMP = Visok skok
+JBE_MENU_SHOP_SKILLS_FAST_RUN = Brzina
+JBE_MENU_SHOP_SKILLS_DOUBLE_JUMP = Dupli skok
+JBE_MENU_SHOP_SKILLS_RANDOM_GLOW = Nasumican glow
+JBE_MENU_SHOP_SKILLS_AUTO_BHOP = Auto BHOP
+JBE_MENU_SHOP_SKILLS_DOUBLE_DAMAGE =Veca naneta steta
+JBE_MENU_SHOP_SKILLS_LOW_GRAVITY = Niza gravitacija
+
+JBE_MENU_SHOP_OTHER_TITLE = Prodavnica r| wOstalo
+JBE_MENU_SHOP_OTHER_CLOSE_CASE = Postani obican robijas
+JBE_MENU_SHOP_OTHER_FREE_DAY = Slobodan dan
+JBE_MENU_SHOP_OTHER_RESOLUTION_VOICE = Voice
+JBE_MENU_SHOP_OTHER_TRANSFER_GUARD = Transfer u cuvare 
+JBE_MENU_SHOP_OTHER_LOTTERY_TICKET = Loto Ticket
+JBE_MENU_SHOP_OTHER_PRANK_PRISONER = Zamena zatvorenika
+
+JBE_CHAT_ID_LOTTERY_WIN = !yCestitke! Pobedio si na lutriji !g%d$!y.
+JBE_CHAT_ID_LOTTERY_LOSS = !yNazalost nisi nista dobio.
+JBE_MENU_PRANK_PRISONER_TITLE = Izaberite zatvorenika za zamenu
+
+JBE_MENU_SHOP_GUARD_TITLE = Prodavnica r| wCuvari^ndVas popust: %d%%
+JBE_MENU_SHOP_GUARD_STIMULATOR = Stimulator
+JBE_MENU_SHOP_GUARD_RANDOM_GLOW = Nasumican glow
+JBE_MENU_SHOP_GUARD_LOTTERY_TICKET = Instant Lutrija
+JBE_MENU_SHOP_GUARD_KOKAIN = Doza kokaina
+JBE_MENU_SHOP_GUARD_DOUBLE_JUMP = Dupli skok
+JBE_MENU_SHOP_GUARD_FAST_RUN = Brzina
+JBE_MENU_SHOP_GUARD_LOW_GRAVITY = Niza gravitacija
+
+
+JBE_MENU_MONEY_TRANSFER_TITLE =  Deamons JB r| wIzaberi osobu
+JBE_MENU_MONEY_YOU_AMOUNT = Balans: %d$
+JBE_MENU_MONEY_AMOUNT_TITLE = Koliko saljes?
+JBE_MENU_MONEY_SPECIFY_AMOUNT = Ukucaj sumu
+JBE_CHAT_ID_ERROR_PARAMETERS = !yGreska,!t pokusaj opet.
+JBE_CHAT_ID_UNKNOWN_PLAYER = !yGreska,!t pokusaj opet.
+JBE_CHAT_ID_MIN_AMOUNT_TRANSFER = !tMinimalan !yiznos za transfer je !g1$!y.
+JBE_CHAT_ID_SUFFICIENT_FUNDS = !yNemas dovoljno novca
+JBE_CHAT_ALL_MONEY_TRANSFER = !t%s je prebacio !g%d$ !yigracu !t%s!y.
+
+JBE_MENU_CHIEF_TITLE = Deamons JB r| wKomandir Meni
+JBE_MENU_CHIEF_DOOR_OPEN = Otvori celije
+JBE_MENU_CHIEF_DOOR_CLOSE = Zatvori celije
+JBE_MENU_CHIEF_COUNTDOWN = Odbrojavanje [r3,5,10 Secw]
+JBE_MENU_CHIEF_PRISONER_SEARCH = Pretraga zatvorenika
+JBE_MENU_CHIEF_FREE_DAY_CONTROL = Daj / Oduzmi slobodan dan
+JBE_MENU_CHIEF_FREE_DAY_START = Startuj slobodan dan
+JBE_MENU_CHIEF_FREE_DAY_END = Zavrsi slobodan dan
+JBE_MENU_CHIEF_PUNISH_GUARD = Kazni cuvara [rPunishw]
+JBE_MENU_CHIEF_TRANSFER_CHIEF = Prebaci simona cuvaru
+JBE_MENU_CHIEF_TREAT_PRISONER = Izleci zatvorenika [rHealw]
+
+JBE_MENU_COUNT_DOWN_TITLE = Deamons JB r| wOdbrojavanje
+JBE_MENU_COUNT_DOWN_10 = 10 Sekundi
+JBE_MENU_COUNT_DOWN_5 = 5 Sekundi
+JBE_MENU_COUNT_DOWN_3 = 3 Sekunde
+JBE_MENU_COUNT_DOWN_TIME = Odbrojavanje: %d
+JBE_MENU_COUNT_DOWN_TIME_END = Odbrojavanje je zavrseno
+
+JBE_CHAT_ID_NOT_TEAM_SEARCH = !yMozes da pretrazujes samo zatvorenike.
+JBE_CHAT_ID_FOUND_WEAPON = !yOruzje je nadjeno kod zatvorenika.
+JBE_CHAT_ID_NOT_FOUND_WEAPON = !Oruzje nije nadjeno kod zatvorenika.
+JBE_CHAT_ID_HELP_FOUND_WEAPON = !yDa pretrazis zatvorenika priblizi mu se.
+
+JBE_MENU_FREE_DAY_CONTROL_TITLE = Daj / Oduzmi nekom slobodan dan
+JBE_MENU_FREE_DAY_CONTROL_GIVE = Daj
+JBE_MENU_FREE_DAY_CONTROL_TAKE = Oduzmi
+JBE_CHAT_ALL_CHIEF_TAKE_FREE_DAY = !yKomandir !t%s !yje ugasio slobodan dan zatvoreniku !t%s!y.
+JBE_CHAT_ALL_CHIEF_GIVE_FREE_DAY = !yKomandir !t%s !yje dao slobodan dan zatvoreniku !t%s!y.
+
+JBE_MENU_PUNISH_GUARD_TITLE = Izaberi cuvara za kaznu
+JBE_CHAT_ALL_PUNISH_GUARD = !ySimon !t%s !y je kaznio !t%s!y.
+
+JBE_MENU_TRANSFER_CHIEF_TITLE = Izaberi nekoga za Komandira
+JBE_CHAT_ALL_TRANSFER_CHIEF = !yKomandir !t%s !yje predao Komandira cuvaru !t%s!y.
+
+JBE_MENU_TREAT_PRISONER_TITLE = Izaberi zatvorenika za Lecenje
+JBE_CHAT_ALL_CHIEF_TREAT_PRISONER = !yKomandir !t%s !y je izlecio !t%s!y.
+
+JBE_MENU_CHIEF_VOICE_CONTROL = Upali / Ugasi nekome voice
+JBE_MENU_CHIEF_PRISONERS_DIVIDE_COLOR = Podeli zatvorenike u boje
+JBE_MENU_CHIEF_MINI_GAME = Mini igre
+
+
+JBEJBE_MENU_VOICE_CONTROL_TITLE = Deamons JB r| wVoice Meni
+JBE_MENU_CHIEF_VOICE_CONTROL_GIVE = Upali
+JBE_MENU_CHIEF_VOICE_CONTROL_TAKE = Ugasi
+JBE_CHAT_ALL_CHIEF_GIVE_VOICE = !yKomandir !t%s !yje upalio glas !t%s!y.
+JBE_CHAT_ALL_CHIEF_TAKE_VOICE = !yKomandir !t%s !yje je ugasio glas !t%s!y.
+
+JB
+JBE_MENU_PRISONERS_DIVIDE_COLOR_TITLE = Podeli zatvorenike u boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_2 = 2 Boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_3 = 3 Boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_4 = 4 Boje
+
+JBE_HUD_ID_YOU_TEAM_ORANGE = !yTi si !gnarandzast!y.
+JBE_HUD_ID_YOU_TEAM_GRAY = !yTi si !gsiv!y.
+JBE_HUD_ID_YOU_TEAM_YELLOW = !yTi si !gzut!y.
+JBE_HUD_ID_YOU_TEAM_BLUE = !yTi si !gplav!y.
+JBE_HUD_ID_YOU_TEAM_RED = !yTi si !gcrven!y.
+JBE_MENU_MINI_GAME_TITLE = JB r| wMini igre
+JBE_MENU_MINI_GAME_SOCCER = Fudbal
+JBE_MENU_MINI_GAME_BOXING = Boks
+JBE_MENU_MINI_GAME_SPRAY = Sprej takmicenje
+JBE_MENU_MINI_GAME_DISTANCE_DROP = Bacanje oruzja
+JBE_MENU_MINI_GAME_FRIENDLY_FIRE = FriendlyFire
+JBE_MENU_MINI_GAME_RANDOM_SKIN = Nasumican skin
+
+JBE_MENU_SOCCER_TITLE = Upravljanje fudbalom
+JBE_MENU_SOCCER_ENABLE = Ukljuci fudbal
+JBE_MENU_SOCCER_DISABLE = Iskljuci fudbal
+JBE_MENU_SOCCER_ADD_BALL = Dodaj loptu
+JBE_MENU_SOCCER_SUB_BALL = Obrisi loptu
+JBE_MENU_SOCCER_UPDATE_BALL = Stvori novu loptu
+JBE_MENU_SOCCER_WHISTLE = Zvizduk
+JBE_MENU_SOCCER_GAME_START = Startuj mec
+JBE_MENU_SOCCER_GAME_END = Zaustavi mec
+JBE_MENU_SOCCER_TEAMS = Upravljanje timovima
+JBE_MENU_SOCCER_SCORE = Upravljanje rezultatom
+
+JBE_MENU_SOCCER_TEAM_TITLE = Upravljanje timovima
+JBE_MENU_SOCCER_TEAM_DIVIDE_PRISONERS = Podeli u timove
+JBE_MENU_SOCCER_TEAM_DIVIDE_ALL = Podeli sve u timove
+JBE_MENU_SOCCER_TEAM_DESCRIPTION = Naciljaj na igraca,^npritisni odgovarajuce dugme^nda dodas igraca u tim.
+JBE_MENU_SOCCER_TEAM_ADD_RED = Dodaj u crveni tim
+JBE_MENU_SOCCER_TEAM_ADD_BLUE = Dodaj u plavi tim
+JBE_MENU_SOCCER_TEAM_SUB = Izbaci
+
+JBE_MENU_SOCCER_SCORE_TITLE = Upravljanje skorovima
+JBE_MENU_SOCCER_SCORE_RED_ADD = Dodaj gol za crveni tim
+JBE_MENU_SOCCER_SCORE_RED_SUB = Obrisi gol za crveni tim
+JBE_MENU_SOCCER_SCORE_BLUE_ADD = Dodaj gol za plavi tim
+JBE_MENU_SOCCER_SCORE_BLUE_SUB = Obrisi gol za plavi tim
+JBE_MENU_SOCCER_SCORE_RESET = Resetuj rezultat
+
+JBE_CHAT_ID_SOCCER_INSUFFICIENTLY_PLAYERS = !yНNema dovoljno igraca.
+JBE_HUD_ID_SOCCER_SCORE_RED = CRVENI
+JBE_HUD_ID_SOCCER_SCORE_BLUE = PLAVI
+
+JBE_MENU_BOXING_TITLE = Upravljanje boksom
+JBE_MENU_BOXING_ENABLE = Ukljuci boks
+JBE_MENU_BOXING_DISABLE = Iskljuci boks
+JBE_MENU_BOXING_GAME_START = Zapocni borbu
+JBE_MENU_BOXING_GAME_END = Zaustavi borbu
+JBE_MENU_BOXING_GAME_TEAM_START = Zapocni timsku borbu
+JBE_MENU_BOXING_GAME_TEAM_END = Zaustavi timsku borbu
+JBE_MENU_BOXING_TEAMS = Upravljanje timovima
+
+JBE_MENU_BOXING_TEAM_TITLE = Upravljanje timovima
+JBE_MENU_BOXING_TEAM_DIVIDE = Podeli u timove
+JBE_MENU_BOXING_TEAM_DESCRIPTION = Naciljaj na igraca,^npritisni odgovarajuce dugme^nda dodas igraca u tim.
+JBE_MENU_BOXING_TEAM_ADD_RED = Dodaj u crveni tim
+JBE_MENU_BOXING_TEAM_ADD_BLUE = Dodaj u plavi tim
+JBE_MENU_BOXING_TEAM_SUB = Izbaci
+
+JBE_CHAT_ID_BOXING_INSUFFICIENTLY_PLAYERS = !yNema dovoljno igraca.
+
+JBE_CHAT_ID_MINI_GAME_SPRAY = !yInfo - Sprej igra je startovana.
+JBE_CHAT_ID_MINI_GAME_DISTANCE_DROP = !ySvim zatvorenicima je dat 'Desert Eagle', bez metkova.
+JBE_CHAT_ID_MINI_GAME_RANDOM_SKIN = !ySvi zatvorenici su dobili nasumicno odelo!y.
+
+JBE_MENU_KILL_REASON_TITLE = Razlog za ubistvo: r%s
+JBE_MENU_KILL_REASON_0 = Nije ispostovao naredbu
+JBE_MENU_KILL_REASON_1 = Izgubio u igri
+JBE_MENU_KILL_REASON_2 = Napao cuvara / simona
+JBE_MENU_KILL_REASON_3 = Nosenje oruzja
+JBE_MENU_KILL_REASON_4 = Bio si crven
+JBE_MENU_KILL_REASON_5 = Usao u Gunroom
+JBE_MENU_KILL_REASON_6 = Provocirao cuvare
+JBE_MENU_KILL_REASON_7 = Greska, dobijas slobodan dan.
+JBE_CHAT_ALL_KILL_REASON = !t%s !yje ubio !t%s!y. Razlog: !g%L!y.
+JBE_CHAT_ID_KILLED_USER_DISCONNECT = !yUbijeni igrac !tje izasao!y sa servera.
+JBE_MENU_KILLED_USERS_TITLE = Spisak ubijenih
+
+
+JBE_MENU_VOTE_DAY_MODE_TITLE = Glasanje za igru
+JBE_MENU_VOTE_DAY_MODE_TIME_END = Glasanje traje jos: %d
+JBE_MENU_VOTE_DAY_MODE_BLOCKED = Blokirano: %d
+
+JBE_DAY_MODE_GHOSTS = Horor
+JBE_DAY_MODE_BIRTHDAY = Rodjendan
+JBE_DAY_MODE_RINGOLEVIO = Ledeni Cica
+JBE_DAY_MODE_SPARTA = Sparta
+JBE_DAY_MODE_HIDE_ADN_SEEK = Zmurka
+JBE_DAY_MODE_PREDATOR = Predator
+
+
+JBE_CHAT_ID_PLAYERS_NOT_VALID = !yGreska. Verovatno nema igraca na serveru.
+JBE_CHAT_ALL_AUTO_FREE_DAY = !yZatvorenik !t%s !ydobice slobodan dan u sledecoj rundi.
+
+
+JBE_MENU_LAST_PRISONER_TITLE = Poslednja zelja r| wIzaberi nesto
+JBE_MENU_LAST_PRISONER_FREE_DAY = Slobodan dan
+JBE_MENU_LAST_PRISONER_MONEY = %d$
+JBE_MENU_LAST_PRISONER_VOICE = Voice na jednu rundu
+JBE_MENU_LAST_TAKE_WEAPONS = Zabraneto koriscenje=BAN
+JBE_MENU_LAST_PRISONER_CHOICE_DUEL = Duel
+
+JBE_MENU_CHOICE_DUEL_TITLE = Izaberi poslednju zelju
+JBE_MENU_CHOICE_DUEL_DEAGLE = Duel - 'Digl'
+JBE_MENU_CHOICE_DUEL_M3 = Duel - 'Pumparica'
+JBE_MENU_CHOICE_DUEL_HEGRENADE = Duel - 'HE'
+JBE_MENU_CHOICE_DUEL_M249 = Duel - 'M249'
+JBE_MENU_CHOICE_DUEL_AWP = Duel - 'AWP'
+JBE_MENU_CHOICE_DUEL_KNIFE = Duel - 'Boks'
+
+JBE_MENU_DUEL_USERS = Izaberi protivnika
+
+JBE_ALL_HUD_DUEL_START_READY = %L^n%s protiv %s^nDuel pocinje za %d sekundi!
+JBE_ALL_HUD_DUEL_TIMER_ATTACK = Pucanje %s^nAutomatsko pucanje %d sekundi!
+JBE_ALL_HUD_DUEL_DEAGLE = Duel - 'Diglom'
+JBE_ALL_HUD_DUEL_M3 = Duel - 'Pumparicom'
+JBE_ALL_HUD_DUEL_HEGRENADE = Duel - 'HE'
+JBE_ALL_HUD_DUEL_M249 = Duel - 'M249'
+JBE_ALL_HUD_DUEL_AWP = Duel - 'AWP'
+JBE_ALL_HUD_DUEL_KNIFE = Duel - 'Boks'
+
+
+JBE_MENU_MANAGE_SOUND_TITLE = Muzika r| wMeni
+JBE_MENU_MANAGE_SOUND_STOP_MP3 = Zaustavi pesmu
+JBE_MENU_MANAGE_SOUND_STOP_ALL = Zaustavi sve pesme
+JBE_MENU_MANAGE_SOUND_ROUND_SOUND = Muzika na kraju runde
+JBE_CHAT_ID_NOW_PLAYING = Trenutna pesma
+
+JBE_MENU_VIP_TITLE =  Deamons JB r| wVIP Menu
+JBE_MENU_VIP_RESPAWN = Respawn r[Runda broj - %d]
+JBE_MENU_VIP_HEALTH = Health
+JBE_MENU_VIP_MONEY = %d$ r[Runda broj - %d]
+JBE_MENU_VIP_INVISIBLE = Invisible r[Runda broj - %d]
+JBE_MENU_VIP_HP_AP = 250HP & 250 AP r[Runda broj - %d]
+JBE_MENU_VIP_VOICE = Voice r[Runda broj - %d]
+
+JBE_MENU_ADMIN_TITLE = Deamons JB r| wAdmin Menu
+JBE_MENU_ADMIN_KICK = Kick
+JBE_MENU_ADMIN_BAN = Ban
+JBE_MENU_ADMIN_SLAP = Slap
+JBE_MENU_ADMIN_TEAM = Transfer
+
+[sr] 
+[en]
+[en]
+JBE_HUD_DAY = Dan %d,
+JBE_HUD_DAY_WEEK_0 = Jailbreak
+JBE_HUD_DAY_WEEK_1 = Ponedeljak
+JBE_HUD_DAY_WEEK_2 = Utorak
+JBE_HUD_DAY_WEEK_3 = Sreda
+JBE_HUD_DAY_WEEK_4 = Cetvrtak
+JBE_HUD_DAY_WEEK_5 = Petak
+JBE_HUD_DAY_WEEK_6 = Subota
+JBE_HUD_DAY_WEEK_7 = Nedelja
+
+JBE_HUD_GAME_MODE = Trenutno je: %L %s
+JBE_HUD_GAME_MODE_0 = Pocetak Dan
+JBE_HUD_GAME_MODE_1 = Obican Dan
+JBE_HUD_GAME_MODE_2 = Slobodan Dan
+JBE_HUD_GAME_MODE_3 = Zabavan Dan
+
+JBE_HUD_CHIEF = Komandir Policije: %L%s
+JBE_HUD_CHIEF_NOT = Nije izabran
+JBE_HUD_CHIEF_ALIVE =Ziv,
+JBE_HUD_CHIEF_DEAD = Mrtav,neka neko preuzme posao.
+JBE_HUD_CHIEF_DISCONNECT = Diskonektovan
+JBE_HUD_CHIEF_FREE = Slobodan
+
+JBE_HUD_PRISONERS = Zatvorenici -  %d|%d
+JBE_HUD_GUARD = Cuvari - %d|%d
+
+JBE_HUD_NOT_FREE =
+JBE_HUD_HAS_FREE = ^n^nSlobodni:
+JBE_HUD_NOT_WANTED =
+JBE_HUD_HAS_WANTED = ^n^nTrazeni:
+
+
+JBE_MENU_TEAM_TITLE = Deamons JB r| wIzaberi svoj tim^nwBalans: r%d Zatvorenika - 1 Cuvar
+JBE_MENU_TEAM_PRISONERS = Zatvorenik
+JBE_MENU_TEAM_GUARDS = Cuvar w[rPotreban MICw]
+JBE_MENU_TEAM_RANDOM = Nasumican tim w[r50/50w]
+JBE_MENU_TEAM_SPECTATOR = Spectator
+
+JBE_MENU_SKIN_TITLE = Deamons JB r| wIzaberi boju
+JBE_MENU_SKIN_ORANGE = Narandzast
+JBE_MENU_SKIN_GRAY = Siv
+JBE_MENU_SKIN_YELLOW = Zut
+JBE_MENU_SKIN_BLUE = Plav
+JBE_MENU_SKIN_BLACK = Crn [rADMINw]
+
+
+JBE_MENU_WEAPONS_GUARD_TITLE = Deamons JB r| wOruzje
+JBE_MENU_WEAPONS_GUARD_AK47 = AK47 + Deagle
+JBE_MENU_WEAPONS_GUARD_M4A1 = M4A1 + Deagle
+JBE_MENU_WEAPONS_GUARD_AWP = AWP + Deagle
+JBE_MENU_WEAPONS_GUARD_XM1014 = XM1014 + Deagle
+
+
+JBE_MENU_MAIN_TITLE = Deamons JB r| wGlavni meni
+JBE_MENU_MAIN_SHOP = Prodavnica [rShopw]
+JBE_MENU_MAIN_MONEY_TRANSFER =Banka [rTransfer novcaw]
+JBE_MENU_MAIN_COSTUMES = Kostimi
+JBE_MENU_MAIN_LAST_PN = Poslednja zelja
+JBE_MENU_MAIN_CHIEF = Meni komandira
+JBE_MENU_MAIN_TAKE_CHIEF = Postani komandir policije
+JBE_MENU_MAIN_TEAM = Promeni tim
+JBE_MENU_MAIN_VIP = VIP meni
+JBE_MENU_MAIN_ADMIN = Admin Meni
+JBE_MENU_MAIN_SUPER_ADMIN = Head Admin Meni
+JBE_MENU_MAIN_MANAGE_SOUND = Podesavanje muzike
+
+JBE_MENU_SHOP_PRISONERS_TITLE = Zatvorenici r| wProdavnica^ndPopust: %d%%
+JBE_MENU_SHOP_PRISONERS_WEAPONS = Oruzje
+JBE_MENU_SHOP_PRISONERS_ITEMS = Oprema
+JBE_MENU_SHOP_PRISONERS_SKILLS = Sposobnosti
+JBE_MENU_SHOP_PRISONERS_OTHER = Ostalo
+
+JBE_MENU_SHOP_WEAPONS_TITLE = Prodavnica r| wOruzje
+JBE_MENU_SHOP_WEAPONS_SHARPENING = Noz
+JBE_MENU_SHOP_WEAPONS_SCREWDRIVER = Srafciger
+JBE_MENU_SHOP_WEAPONS_BALISONG = Leptir Noz
+JBE_MENU_SHOP_WEAPONS_GLOCK18 = Glock 18
+JBE_MENU_SHOP_WEAPONS_USP = USP
+JBE_MENU_SHOP_WEAPONS_DEAGLE = Deagle
+
+JBE_CHAT_ID_SHOP_WEAPON_HELP = !yDa bi !tuzeo oruzje !ypritisni !g'x'!y, da bi !tsakrio oruzje !yponovo pritisni !g'x'!y.
+JBE_CHAT_ID_SHOP_WEAPON_BLOCKED = !yKoriscenje oruzja tokom igara je zabranjeno.
+
+JBE_MENU_SHOP_ITEMS_TITLE = Prodavnica r| wOprema
+JBE_MENU_SHOP_ITEMS_LATCHKEY = Obijac vrata
+JBE_MENU_SHOP_ITEMS_FLASHBANG = Flash Bomba
+JBE_MENU_SHOP_ITEMS_KOKAIN = Kokain
+JBE_MENU_SHOP_ITEMS_STIMULATOR = Stimulator
+JBE_MENU_SHOP_ITEMS_FROST_GRENADE = Ledena Bomba
+JBE_MENU_SHOP_ITEMS_INVISIBLE_HAT = Nevidljiva Kapa
+JBE_MENU_SHOP_ITEMS_ARMOR = Pancir
+JBE_MENU_SHOP_SKILLS_CLOHING_GUARD = Kostim cuvara
+JBE_MENU_SHOP_SKILLS_HEGRENADE = Granata
+
+
+JBE_MENU_ID_LATCHKEY_USE = !yZa koriscenje !tobijaca!y, priblizi se celijski vratima i pritisni !g'c'!y.
+JBE_CHAT_ID_LATCHKEY_ERROR_DOOR = !gGreska, pokusaj opet!y.
+JBE_MENU_ID_KOKAIN = !yEfekti posle koriscenja !tKokaina!y: !tprimacete manje stete od oruzja!y.
+JBE_MENU_ID_INVISIBLE_HAT_HELP = !yKupio si !t'Nevidljivu Kapu'!y, bicete nevidljivi !g10 sekundi!y.
+JBE_MENU_ID_INVISIBLE_HAT_REMOVE = !yDejstvo predmeta !t'Nevidljiva Kapa'!y je isteklo, bicete vidljivi opet.
+JBE_CHAT_ID_CLOHING_GUARD_HELP = !yKupio si, !tCuvarev kostim !ypritisni !g'z' !yda ga skines, ako zelis da ga obuces ponovo pritisni opet !g'z'!y.
+JBE_CHAT_ID_DRESSED_CLOTHING_GUARD = !yTi si uspesno obukao kostim od cuvara.
+JBE_CHAT_ID_REMOVE_CLOTHING_GUARD = !yTi si uspesno skinuo kostim od cuvara.
+JBE_CHAT_ID_BLOCKED_CLOTHING_GUARD = !yTrenutno ne mozes da koristis kostim od cuvara.
+JBE_
+MENU_SHOP_SKILLS_TITLE = Prodavnica r| wSposobnosti
+JBE_MENU_SHOP_SKILLS_HING_JUMP = Visok skok
+JBE_MENU_SHOP_SKILLS_FAST_RUN = Brzina
+JBE_MENU_SHOP_SKILLS_DOUBLE_JUMP = Dupli skok
+JBE_MENU_SHOP_SKILLS_RANDOM_GLOW = Nasumican glow
+JBE_MENU_SHOP_SKILLS_AUTO_BHOP = Auto BHOP
+JBE_MENU_SHOP_SKILLS_DOUBLE_DAMAGE =Veca naneta steta
+JBE_MENU_SHOP_SKILLS_LOW_GRAVITY = Niza gravitacija
+
+JBE_MENU_SHOP_OTHER_TITLE = Prodavnica r| wOstalo
+JBE_MENU_SHOP_OTHER_CLOSE_CASE = Postani obican robijas
+JBE_MENU_SHOP_OTHER_FREE_DAY = Slobodan dan
+JBE_MENU_SHOP_OTHER_RESOLUTION_VOICE = Voice
+JBE_MENU_SHOP_OTHER_TRANSFER_GUARD = Transfer u cuvare 
+JBE_MENU_SHOP_OTHER_LOTTERY_TICKET = Loto Ticket
+JBE_MENU_SHOP_OTHER_PRANK_PRISONER = Zamena zatvorenika
+
+JBE_CHAT_ID_LOTTERY_WIN = !yCestitke! Pobedio si na lutriji !g%d$!y.
+JBE_CHAT_ID_LOTTERY_LOSS = !yNazalost nisi nista dobio.
+JBE_MENU_PRANK_PRISONER_TITLE = Izaberite zatvorenika za zamenu
+
+JBE_MENU_SHOP_GUARD_TITLE = Prodavnica r| wCuvari^ndVas popust: %d%%
+JBE_MENU_SHOP_GUARD_STIMULATOR = Stimulator
+JBE_MENU_SHOP_GUARD_RANDOM_GLOW = Nasumican glow
+JBE_MENU_SHOP_GUARD_LOTTERY_TICKET = Instant Lutrija
+JBE_MENU_SHOP_GUARD_KOKAIN = Doza kokaina
+JBE_MENU_SHOP_GUARD_DOUBLE_JUMP = Dupli skok
+JBE_MENU_SHOP_GUARD_FAST_RUN = Brzina
+JBE_MENU_SHOP_GUARD_LOW_GRAVITY = Niza gravitacija
+
+
+JBE_MENU_MONEY_TRANSFER_TITLE =  Deamons JB r| wIzaberi osobu
+JBE_MENU_MONEY_YOU_AMOUNT = Balans: %d$
+JBE_MENU_MONEY_AMOUNT_TITLE = Koliko saljes?
+JBE_MENU_MONEY_SPECIFY_AMOUNT = Ukucaj sumu
+JBE_CHAT_ID_ERROR_PARAMETERS = !yGreska,!t pokusaj opet.
+JBE_CHAT_ID_UNKNOWN_PLAYER = !yGreska,!t pokusaj opet.
+JBE_CHAT_ID_MIN_AMOUNT_TRANSFER = !tMinimalan !yiznos za transfer je !g1$!y.
+JBE_CHAT_ID_SUFFICIENT_FUNDS = !yNemas dovoljno novca
+JBE_CHAT_ALL_MONEY_TRANSFER = !t%s je prebacio !g%d$ !yigracu !t%s!y.
+
+JBE_MENU_CHIEF_TITLE = Deamons JB r| wKomandir Meni
+JBE_MENU_CHIEF_DOOR_OPEN = Otvori celije
+JBE_MENU_CHIEF_DOOR_CLOSE = Zatvori celije
+JBE_MENU_CHIEF_COUNTDOWN = Odbrojavanje [r3,5,10 Secw]
+JBE_MENU_CHIEF_PRISONER_SEARCH = Pretraga zatvorenika
+JBE_MENU_CHIEF_FREE_DAY_CONTROL = Daj / Oduzmi slobodan dan
+JBE_MENU_CHIEF_FREE_DAY_START = Startuj slobodan dan
+JBE_MENU_CHIEF_FREE_DAY_END = Zavrsi slobodan dan
+JBE_MENU_CHIEF_PUNISH_GUARD = Kazni cuvara [rPunishw]
+JBE_MENU_CHIEF_TRANSFER_CHIEF = Prebaci simona cuvaru
+JBE_MENU_CHIEF_TREAT_PRISONER = Izleci zatvorenika [rHealw]
+
+JBE_MENU_COUNT_DOWN_TITLE = Deamons JB r| wOdbrojavanje
+JBE_MENU_COUNT_DOWN_10 = 10 Sekundi
+JBE_MENU_COUNT_DOWN_5 = 5 Sekundi
+JBE_MENU_COUNT_DOWN_3 = 3 Sekunde
+JBE_MENU_COUNT_DOWN_TIME = Odbrojavanje: %d
+JBE_MENU_COUNT_DOWN_TIME_END = Odbrojavanje je zavrseno
+
+JBE_CHAT_ID_NOT_TEAM_SEARCH = !yMozes da pretrazujes samo zatvorenike.
+JBE_CHAT_ID_FOUND_WEAPON = !yOruzje je nadjeno kod zatvorenika.
+JBE_CHAT_ID_NOT_FOUND_WEAPON = !Oruzje nije nadjeno kod zatvorenika.
+JBE_CHAT_ID_HELP_FOUND_WEAPON = !yDa pretrazis zatvorenika priblizi mu se.
+
+JBE_MENU_FREE_DAY_CONTROL_TITLE = Daj / Oduzmi nekom slobodan dan
+JBE_MENU_FREE_DAY_CONTROL_GIVE = Daj
+JBE_MENU_FREE_DAY_CONTROL_TAKE = Oduzmi
+JBE_CHAT_ALL_CHIEF_TAKE_FREE_DAY = !yKomandir !t%s !yje ugasio slobodan dan zatvoreniku !t%s!y.
+JBE_CHAT_ALL_CHIEF_GIVE_FREE_DAY = !yKomandir !t%s !yje dao slobodan dan zatvoreniku !t%s!y.
+
+JBE_MENU_PUNISH_GUARD_TITLE = Izaberi cuvara za kaznu
+JBE_CHAT_ALL_PUNISH_GUARD = !ySimon !t%s !y je kaznio !t%s!y.
+
+JBE_MENU_TRANSFER_CHIEF_TITLE = Izaberi nekoga za Komandira
+JBE_CHAT_ALL_TRANSFER_CHIEF = !yKomandir !t%s !yje predao Komandira cuvaru !t%s!y.
+
+JBE_MENU_TREAT_PRISONER_TITLE = Izaberi zatvorenika za Lecenje
+JBE_CHAT_ALL_CHIEF_TREAT_PRISONER = !yKomandir !t%s !y je izlecio !t%s!y.
+
+JBE_MENU_CHIEF_VOICE_CONTROL = Upali / Ugasi nekome voice
+JBE_MENU_CHIEF_PRISONERS_DIVIDE_COLOR = Podeli zatvorenike u boje
+JBE_MENU_CHIEF_MINI_GAME = Mini igre
+
+
+JBEJBE_MENU_VOICE_CONTROL_TITLE = Deamons JB r| wVoice Meni
+JBE_MENU_CHIEF_VOICE_CONTROL_GIVE = Upali
+JBE_MENU_CHIEF_VOICE_CONTROL_TAKE = Ugasi
+JBE_CHAT_ALL_CHIEF_GIVE_VOICE = !yKomandir !t%s !yje upalio glas !t%s!y.
+JBE_CHAT_ALL_CHIEF_TAKE_VOICE = !yKomandir !t%s !yje je ugasio glas !t%s!y.
+
+JB
+JBE_MENU_PRISONERS_DIVIDE_COLOR_TITLE = Podeli zatvorenike u boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_2 = 2 Boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_3 = 3 Boje
+JBE_MENU_PRISONERS_DIVIDE_COLOR_4 = 4 Boje
+
+JBE_HUD_ID_YOU_TEAM_ORANGE = !yTi si !gnarandzast!y.
+JBE_HUD_ID_YOU_TEAM_GRAY = !yTi si !gsiv!y.
+JBE_HUD_ID_YOU_TEAM_YELLOW = !yTi si !gzut!y.
+JBE_HUD_ID_YOU_TEAM_BLUE = !yTi si !gplav!y.
+JBE_HUD_ID_YOU_TEAM_RED = !yTi si !gcrven!y.
+JBE_MENU_MINI_GAME_TITLE = JB r| wMini igre
+JBE_MENU_MINI_GAME_SOCCER = Fudbal
+JBE_MENU_MINI_GAME_BOXING = Boks
+JBE_MENU_MINI_GAME_SPRAY = Sprej takmicenje
+JBE_MENU_MINI_GAME_DISTANCE_DROP = Bacanje oruzja
+JBE_MENU_MINI_GAME_FRIENDLY_FIRE = FriendlyFire
+JBE_MENU_MINI_GAME_RANDOM_SKIN = Nasumican skin
+
+JBE_MENU_SOCCER_TITLE = Upravljanje fudbalom
+JBE_MENU_SOCCER_ENABLE = Ukljuci fudbal
+JBE_MENU_SOCCER_DISABLE = Iskljuci fudbal
+JBE_MENU_SOCCER_ADD_BALL = Dodaj loptu
+JBE_MENU_SOCCER_SUB_BALL = Obrisi loptu
+JBE_MENU_SOCCER_UPDATE_BALL = Stvori novu loptu
+JBE_MENU_SOCCER_WHISTLE = Zvizduk
+JBE_MENU_SOCCER_GAME_START = Startuj mec
+JBE_MENU_SOCCER_GAME_END = Zaustavi mec
+JBE_MENU_SOCCER_TEAMS = Upravljanje timovima
+JBE_MENU_SOCCER_SCORE = Upravljanje rezultatom
+
+JBE_MENU_SOCCER_TEAM_TITLE = Upravljanje timovima
+JBE_MENU_SOCCER_TEAM_DIVIDE_PRISONERS = Podeli u timove
+JBE_MENU_SOCCER_TEAM_DIVIDE_ALL = Podeli sve u timove
+JBE_MENU_SOCCER_TEAM_DESCRIPTION = Naciljaj na igraca,^npritisni odgovarajuce dugme^nda dodas igraca u tim.
+JBE_MENU_SOCCER_TEAM_ADD_RED = Dodaj u crveni tim
+JBE_MENU_SOCCER_TEAM_ADD_BLUE = Dodaj u plavi tim
+JBE_MENU_SOCCER_TEAM_SUB = Izbaci
+
+JBE_MENU_SOCCER_SCORE_TITLE = Upravljanje skorovima
+JBE_MENU_SOCCER_SCORE_RED_ADD = Dodaj gol za crveni tim
+JBE_MENU_SOCCER_SCORE_RED_SUB = Obrisi gol za crveni tim
+JBE_MENU_SOCCER_SCORE_BLUE_ADD = Dodaj gol za plavi tim
+JBE_MENU_SOCCER_SCORE_BLUE_SUB = Obrisi gol za plavi tim
+JBE_MENU_SOCCER_SCORE_RESET = Resetuj rezultat
+
+JBE_CHAT_ID_SOCCER_INSUFFICIENTLY_PLAYERS = !yНNema dovoljno igraca.
+JBE_HUD_ID_SOCCER_SCORE_RED = CRVENI
+JBE_HUD_ID_SOCCER_SCORE_BLUE = PLAVI
+
+JBE_MENU_BOXING_TITLE = Upravljanje boksom
+JBE_MENU_BOXING_ENABLE = Ukljuci boks
+JBE_MENU_BOXING_DISABLE = Iskljuci boks
+JBE_MENU_BOXING_GAME_START = Zapocni borbu
+JBE_MENU_BOXING_GAME_END = Zaustavi borbu
+JBE_MENU_BOXING_GAME_TEAM_START = Zapocni timsku borbu
+JBE_MENU_BOXING_GAME_TEAM_END = Zaustavi timsku borbu
+JBE_MENU_BOXING_TEAMS = Upravljanje timovima
+
+JBE_MENU_BOXING_TEAM_TITLE = Upravljanje timovima
+JBE_MENU_BOXING_TEAM_DIVIDE = Podeli u timove
+JBE_MENU_BOXING_TEAM_DESCRIPTION = Naciljaj na igraca,^npritisni odgovarajuce dugme^nda dodas igraca u tim.
+JBE_MENU_BOXING_TEAM_ADD_RED = Dodaj u crveni tim
+JBE_MENU_BOXING_TEAM_ADD_BLUE = Dodaj u plavi tim
+JBE_MENU_BOXING_TEAM_SUB = Izbaci
+
+JBE_CHAT_ID_BOXING_INSUFFICIENTLY_PLAYERS = !yNema dovoljno igraca.
+
+JBE_CHAT_ID_MINI_GAME_SPRAY = !yInfo - Sprej igra je startovana.
+JBE_CHAT_ID_MINI_GAME_DISTANCE_DROP = !ySvim zatvorenicima je dat 'Desert Eagle', bez metkova.
+JBE_CHAT_ID_MINI_GAME_RANDOM_SKIN = !ySvi zatvorenici su dobili nasumicno odelo!y.
+
+JBE_MENU_KILL_REASON_TITLE = Razlog za ubistvo: r%s
+JBE_MENU_KILL_REASON_0 = Nije ispostovao naredbu
+JBE_MENU_KILL_REASON_1 = Izgubio u igri
+JBE_MENU_KILL_REASON_2 = Napao cuvara / simona
+JBE_MENU_KILL_REASON_3 = Nosenje oruzja
+JBE_MENU_KILL_REASON_4 = Bio si crven
+JBE_MENU_KILL_REASON_5 = Usao u Gunroom
+JBE_MENU_KILL_REASON_6 = Provocirao cuvare
+JBE_MENU_KILL_REASON_7 = Greska, dobijas slobodan dan.
+JBE_CHAT_ALL_KILL_REASON = !t%s !yje ubio !t%s!y. Razlog: !g%L!y.
+JBE_CHAT_ID_KILLED_USER_DISCONNECT = !yUbijeni igrac !tje izasao!y sa servera.
+JBE_MENU_KILLED_USERS_TITLE = Spisak ubijenih
+
+
+JBE_MENU_VOTE_DAY_MODE_TITLE = Glasanje za igru
+JBE_MENU_VOTE_DAY_MODE_TIME_END = Glasanje traje jos: %d
+JBE_MENU_VOTE_DAY_MODE_BLOCKED = Blokirano: %d
+
+JBE_DAY_MODE_GHOSTS = Horor
+JBE_DAY_MODE_BIRTHDAY = Rodjendan
+JBE_DAY_MODE_RINGOLEVIO = Ledeni Cica
+JBE_DAY_MODE_SPARTA = Sparta
+JBE_DAY_MODE_HIDE_ADN_SEEK = Zmurka
+JBE_DAY_MODE_PREDATOR = Predator
+
+
+JBE_CHAT_ID_PLAYERS_NOT_VALID = !yGreska. Verovatno nema igraca na serveru.
+JBE_CHAT_ALL_AUTO_FREE_DAY = !yZatvorenik !t%s !ydobice slobodan dan u sledecoj rundi.
+
+
+JBE_MENU_LAST_PRISONER_TITLE = Poslednja zelja r| wIzaberi nesto
+JBE_MENU_LAST_PRISONER_FREE_DAY = Slobodan dan
+JBE_MENU_LAST_PRISONER_MONEY = %d$
+JBE_MENU_LAST_PRISONER_VOICE = Voice na jednu rundu
+JBE_MENU_LAST_TAKE_WEAPONS = Zabraneto koriscenje=BAN
+JBE_MENU_LAST_PRISONER_CHOICE_DUEL = Duel
+
+JBE_MENU_CHOICE_DUEL_TITLE = Izaberi poslednju zelju
+JBE_MENU_CHOICE_DUEL_DEAGLE = Duel - 'Digl'
+JBE_MENU_CHOICE_DUEL_M3 = Duel - 'Pumparica'
+JBE_MENU_CHOICE_DUEL_HEGRENADE = Duel - 'HE'
+JBE_MENU_CHOICE_DUEL_M249 = Duel - 'M249'
+JBE_MENU_CHOICE_DUEL_AWP = Duel - 'AWP'
+JBE_MENU_CHOICE_DUEL_KNIFE = Duel - 'Boks'
+
+JBE_MENU_DUEL_USERS = Izaberi protivnika
+
+JBE_ALL_HUD_DUEL_START_READY = %L^n%s protiv %s^nDuel pocinje za %d sekundi!
+JBE_ALL_HUD_DUEL_TIMER_ATTACK = Pucanje %s^nAutomatsko pucanje %d sekundi!
+JBE_ALL_HUD_DUEL_DEAGLE = Duel - 'Diglom'
+JBE_ALL_HUD_DUEL_M3 = Duel - 'Pumparicom'
+JBE_ALL_HUD_DUEL_HEGRENADE = Duel - 'HE'
+JBE_ALL_HUD_DUEL_M249 = Duel - 'M249'
+JBE_ALL_HUD_DUEL_AWP = Duel - 'AWP'
+JBE_ALL_HUD_DUEL_KNIFE = Duel - 'Boks'
+
+
+JBE_MENU_MANAGE_SOUND_TITLE = Muzika r| wMeni
+JBE_MENU_MANAGE_SOUND_STOP_MP3 = Zaustavi pesmu
+JBE_MENU_MANAGE_SOUND_STOP_ALL = Zaustavi sve pesme
+JBE_MENU_MANAGE_SOUND_ROUND_SOUND = Muzika na kraju runde
+JBE_CHAT_ID_NOW_PLAYING = Trenutna pesma
+
+JBE_MENU_VIP_TITLE =  Deamons JB r| wVIP Menu
+JBE_MENU_VIP_RESPAWN = Respawn r[Runda broj - %d]
+JBE_MENU_VIP_HEALTH = Health
+JBE_MENU_VIP_MONEY = %d$ r[Runda broj - %d]
+JBE_MENU_VIP_INVISIBLE = Invisible r[Runda broj - %d]
+JBE_MENU_VIP_HP_AP = 250HP & 250 AP r[Runda broj - %d]
+JBE_MENU_VIP_VOICE = Voice r[Runda broj - %d]
+
+JBE_MENU_ADMIN_TITLE = Deamons JB r| wAdmin Menu
+JBE_MENU_ADMIN_KICK = Kick
+JBE_MENU_ADMIN_BAN = Ban
+JBE_MENU_ADMIN_SLAP = Slap
+JBE_MENU_ADMIN_TEAM = Transfer

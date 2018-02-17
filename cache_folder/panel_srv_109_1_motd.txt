@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Anime 404 Balkan</title>
+<style type=”text/css”>
+pre     {
+font-family:Verdana,Tahoma;
+color:#FFB000;
+}
+body    {
+background:url(https://images2.alphacoders.com/308/thumb-1920-30822.jpg);
+margin-left:8px;
+margin-top:0px;
+color:white;
+}
+</style></head>
+<body scroll=”no”>
+<pre>
+
+Gledajte Anime u HD kvalitetu bez reklama samo na https://www.anime404.com/
+
+Server hostovan by e-max.xyz niske cene nizak ping
+
+</pre>
+</body>
+</html>

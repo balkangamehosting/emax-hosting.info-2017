@@ -1,0 +1,33 @@
+﻿[ru]
+MENU_NAME = wDeamons Army r|wGRAB-Menuw|^nVi Grabate:r[ w%s r]^nwGrab by rStalevski/A/
+
+MENU_1 = Kick w[rIgracaw]
+MENU_2 = Ubi w[rIgracaw]
+MENU_3 = Uzmi Oruzje w[rIgracaw]
+MENU_4 = Daj Brzinu w[rIgracaw]
+MENU_5 = Uzmi Brzinu w[rIgracaw]
+MENU_6 = Ostavi 1HP w[rIgracaw]
+MENU_7 = Rotiraj Ekran w[rIgracaw]
+
+MENU_EXIT = Izlaz^n
+
+CHAT_1 = !g[Deamons Army]!yADMIN !team%s !yvas !gGraba
+CHAT_2 = !g[Deamons Army]!yVi ste uhvatili !gGrabom !yIgraca !team%s
+CHAT_3 = !g[Deamons Army]!yVi ste uhvatili !gGrabom !teamOruzje
+
+[en]
+MENU_NAME = wDeamons Army r|wGRAB-Menuw|^nVi Grabate:r[ w%s r]^nwGrab by rStalevski/A/
+
+MENU_1 = Kick w[rIgracaw]
+MENU_2 = Ubi w[rIgracaw]
+MENU_3 = Uzmi Oruzje w[rIgracaw]
+MENU_4 = Daj Brzinu w[rIgracaw]
+MENU_5 = Uzmi Brzinu w[rIgracaw]
+MENU_6 = Ostavi 1HP w[rIgracaw]
+MENU_7 = Rotiraj Ekran w[rIgracaw]
+
+MENU_EXIT = Izlaz^n
+
+CHAT_1 = !g[Deamons Army]!yADMIN !team%s !yvas !gGraba
+CHAT_2 = !g[Deamons Army]!yVi ste uhvatili !gGrabom !yIgraca !team%s
+CHAT_3 = !g[Deamons Army]!yVi ste uhvatili !gGrabom !teamOruzje

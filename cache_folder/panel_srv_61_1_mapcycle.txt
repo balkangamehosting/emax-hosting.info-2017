@@ -1,0 +1,9 @@
+de_dust2
+de_nuke
+de_inferno
+de_train
+de_italy
+de_westwood
+de_aztec
+de_assault
+

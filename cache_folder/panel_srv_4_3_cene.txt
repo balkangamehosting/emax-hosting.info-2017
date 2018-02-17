@@ -1,0 +1,11 @@
+<body bgcolor="black"><center><strong><font size="6"><font color="orange">Deamons Cene:<hr></center></font></font><br>
+<font color="red"><font size="5">Cena u bostovina:</font></font><br><br>
+<font color="green"><font size="3">VIP <font color="white">=</font> <font color="yellow">1 Boost<br>
+<font color="green"><font size="3">HOOK <font color="white">=</font> <font color="yellow">1 Boost<br>
+<font color="green"><font size="3">Admin <font color="white"> =</font> <font color="yellow">2 Boosta<br>
+<font color="green"><font size="3">SVIP <font color="white"> =</font> <font color="yellow">2 Boosta<br>
+<font color="green"><font size="3">Nadlezni <font color="white"> =</font> <font color="yellow">3 Boosta<br>
+<font color="red"><font size="5">Novcana Cena:</font></font><br><br>
+<font color="green"><font size="3">Zamenik Head Admina <font color="white">=</font> <font color="yellow">6 euro <font color="gray"</font><br> 
+<font color="green"><font size="3">Head Admin <font color="white"> =</font> <font color="yellow">8 euro <font color="gray"></font><br>
+<font color="green"><font size="3">Vlasnik Servera <font color="white"> =</font> <font color="yellow">10 euro <font color="gray"></font><br>

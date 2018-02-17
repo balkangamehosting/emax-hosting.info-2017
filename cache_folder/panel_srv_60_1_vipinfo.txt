@@ -1,0 +1,26 @@
+<html>
+<head>
+<style type="text/css">
+body	{
+	background-color: #000000;
+	font-family:Verdana,Tahoma;
+		}
+.style1 {color: #FFCC33}
+.style2 {color: #00FF00}
+.style3 {color: #FF0000}
+</style>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1257">
+<title>Cene</title></head>
+<font size="2" color="#e0a518"><b></b></font><center>
+  <p><span class="style1">VIP Privilegije</span></p>
+  <hr>
+  <p align="left"><span class="style2">50 HP svaki put kada ozivi.</span></p>
+  <p align="left"><span class="style2">Veca brzina.</span></p>
+  <p align="left" class="style2">Manja gravitacija.</p>
+  <p align="left" class="style2">2000$ svaki put kada ozivi.</p>
+  <p align="left" class="style2">100 Armora svaki put kada ozivi .</p>
+  <p align="left" class="style2">Ima VIP Tag u score bar-u.</p>
+  <p align="left" class="style2">Dobija 1000 $ po HS-u,i 500$ po kill-u.</p>
+  <p align="left" class="style2">Dobija 30 HP po HS-u,i 15 HP po kill-u.</p>
+  <hr>
+<html>
