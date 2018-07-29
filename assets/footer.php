@@ -70,7 +70,7 @@
 ?>					
 					<div id="copy">
 						<p>
-						<span style="float: left; text-align: left; width: 70%;">© E-MAX HOSTING SOLUTION All rights reserved.Kodirao Nikita Šibul (Ciker)</span> <span style="float: left; width: 29%; text-align: right;">Stranica učitana za: <a><?php echo $pageload; ?>s</a> | Verzija: <?php echo $verzija['value']; ?></a></span>
+						<span style="float: left; text-align: left; width: 70%;">© E-MAX HOSTING SOLUTION All rights reserved.Kodirao Filip Velčković (E-Trail) & Nikita Šibul (Ciker)</span> <span style="float: left; width: 29%; text-align: right;">Stranica učitana za: <a><?php echo $pageload; ?>s</a> | Verzija: <?php echo $verzija['value']; ?></a></span>
 						</p>
 					</div>
 				</div>   	
