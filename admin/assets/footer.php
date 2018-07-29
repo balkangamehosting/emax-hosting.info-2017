@@ -37,7 +37,7 @@
 				</div> <!-- /span6 -->
 				
 				<div id="footer-terms" class="span6">
-					<i class="icon-html5 icon-2x"></i><span style="margin-left: 10px;">Kodirao <a href="http://fb.com/Vane.pici" target="_blank">Vane Trajkov</a></span>
+					<i class="icon-html5 icon-2x"></i><span style="margin-left: 10px;">Kodirao <a href="#" target="_blank">Filip Velčković (E-Trail) & Nikita Šibul (Ciker)</a></span>
 				</div> <!-- /.span6 -->
 				
 			</div> <!-- /row -->
