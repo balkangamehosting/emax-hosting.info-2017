@@ -131,7 +131,6 @@ else $srvonline = $jezik['text219'];
 			<td style="margin-left: -10px;">
 				<div id="infod">
 					<p id="h7"><?php echo $jezik['text387']; ?></p>
-					<p id="h2"><i class="icon-hdd"></i> <?php echo $jezik['text383']; ?>: <z><?php echo $ip[0]; ?> ---></z><a class="btn btn-mini btn-warning" href="ftp://<?php echo $server['username']; ?>:<?php echo $server['password']; ?>@<?php echo $boxip['ip'].":".$box['ftpport']; ?>" style="color: #FFF; margin-left: 5px;" type="button"><i class="icon-forward"></i> FTP WEB</a></p>
 					<p id="h2" style="text-transform: none;"><i class="icon-user"></i> <?php echo $jezik['text388']; ?>: <z><?php echo $server['username']; ?></z></p>
 <?php
 					if($_SESSION['sigkod'] == "0") {
