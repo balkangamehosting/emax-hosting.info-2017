@@ -1,11 +1,11 @@
 <?php
 $fajl = "login";
 
-include("/etc/sentora/panel/konfiguracija.php");
-include("/etc/sentora/panel/admin/includes.php");
-require_once('/etc/sentora/panel/includes/libs/lgsl/lgsl_class.php');
-require("/etc/sentora/panel/includes/libs/phpseclib/SSH2.php");
-require_once("/etc/sentora/panel/includes/libs/phpseclib/Crypt/AES.php");
+include($_SERVER['DOCUMENT_ROOT']."/konfiguracija.php");
+include($_SERVER['DOCUMENT_ROOT']."/admin/includes.php");
+require_once($_SERVER['DOCUMENT_ROOT'].'/includes/libs/lgsl/lgsl_class.php');
+require($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/SSH2.php");
+require_once($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/Crypt/AES.php");
 
 error_reporting(E_ERROR | E_WARNING | E_PARSE);
 /*------------------------------------------------------------------------------------------------------+
