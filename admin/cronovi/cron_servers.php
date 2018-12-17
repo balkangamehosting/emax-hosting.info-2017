@@ -1,19 +1,19 @@
 <?php
 $fajl = "login";
 
-include("/etc/sentora/panel/konfiguracija.php");
-include("/etc/sentora/panel/admin/includes.php");
-require_once('/etc/sentora/panel/includes/libs/lgsl/lgsl_class.php');
-require("/etc/sentora/panel/includes/libs/phpseclib/SSH2.php");
-require_once("/etc/sentora/panel/includes/libs/phpseclib/Crypt/AES.php");
+include($_SERVER['DOCUMENT_ROOT']."/konfiguracija.php");
+include($_SERVER['DOCUMENT_ROOT']."/admin/includes.php");
+require_once($_SERVER['DOCUMENT_ROOT'].'/includes/libs/lgsl/lgsl_class.php');
+require($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/SSH2.php");
+require_once($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/Crypt/AES.php");
 
 $servers = mysql_query("SELECT * FROM serveri");
 
 while($row = mysql_fetch_assoc($servers))
 {
-	file_get_contents("http://www.emax-hosting.info/admin/srv-grafik.php?id={$row[id]}&cron=C#3gtQ@");
-	file_get_contents("http://www.emax-hosting.info/gp-srvgrafik.php?id={$row[id]}&cron=aX21$%@");
-	file_get_contents("http://www.emax-hosting.info/gp-banner.php?id={$row[id]}&cron=6123saxhGASD");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/admin/srv-grafik.php?id={$row[id]}&cron=C#3gtQ@");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/gp-srvgrafik.php?id={$row[id]}&cron=aX21$%@");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/gp-banner.php?id={$row[id]}&cron=6123saxhGASD");
 }
 
 unset($servers);
@@ -633,9 +633,9 @@ $servers = mysql_query("SELECT * FROM serveri");
 
 while($row = mysql_fetch_assoc($servers))
 {
-	file_get_contents("http://www.e-max.xyz/admin/srv-grafik.php?id={$row[id]}&cron=C#3gtQ@");
-	file_get_contents("http://www.e-max.xyz/gp-srvgrafik.php?id={$row[id]}&cron=aX21$%@");
-	file_get_contents("http://www.e-max.xyz//gp-banner.php?id={$row[id]}&cron=6123saxhGASD");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/admin/srv-grafik.php?id={$row[id]}&cron=C#3gtQ@");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/gp-srvgrafik.php?id={$row[id]}&cron=aX21$%@");
+	file_get_contents("http://".$_SERVER['HTTP_HOST']."/gp-banner.php?id={$row[id]}&cron=6123saxhGASD");
 }
 
 unset($servers);
