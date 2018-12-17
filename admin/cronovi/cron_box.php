@@ -1,11 +1,11 @@
 <?php
 $fajl = "login";
 
-include("/etc/sentora/panel/konfiguracija.php");
-include("/etc/sentora/panel/admin/includes.php");
-require_once('/etc/sentora/panel/includes/libs/lgsl/lgsl_class.php');
-require("/etc/sentora/panel/includes/libs/phpseclib/SSH2.php");
-require_once("/etc/sentora/panel/includes/libs/phpseclib/Crypt/AES.php");
+include($_SERVER['DOCUMENT_ROOT']."/konfiguracija.php");
+include($_SERVER['DOCUMENT_ROOT']."/admin/includes.php");
+require_once($_SERVER['DOCUMENT_ROOT'].'/includes/libs/lgsl/lgsl_class.php');
+require($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/SSH2.php");
+require_once($_SERVER['DOCUMENT_ROOT']."/includes/libs/phpseclib/Crypt/AES.php");
 
 
 /*------------------------------------------------------------------------------------------------------+
@@ -223,7 +223,7 @@ if (query_fetch_assoc( "SELECT `boxid` FROM `box` ORDER BY `boxid`" ) != 0)
 					else if($rowsServers['igra'] == "2") $igra = "samp";
 					else if($rowsServers['igra'] == "3") $igra = "minecraft";
 					
-					require_once("/var/www/html/includes/libs/lgsl/lgsl_class.php");	
+					require_once($_SERVER['DOCUMENT_ROOT']."/includes/libs/lgsl/lgsl_class.php");	
 					
 					
 					if($rowsServers['igra'] == "1") $querytype = "halflife";
